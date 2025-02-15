@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Srishti Shetty
+📍 **Jersey City, NJ, United States**  
 
-<!--
-**SrishtiShetty24/SrishtiShetty24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**New York University**  
+*Master of Science in Management and Systems*  
+*Jan 2024 - Dec 2025* | CGPA: 3.9/4
+
+**MAEER’s MIT COE, Pune University**  
+*Bachelor of Engineering in Electronics & Telecommunication Engineering*  
+*Aug 2016 - Jul 2020* | CGPA: 3.8/4
+
+---
+
+## 💻 Skills
+
+- **Languages:** Python, SQL, C, PowerShell  
+- **Tools:** AWS, Azure, Tableau, PowerBI, Git, VMware, Microsoft Office, Monday.com, Miro, Visual Studio, SAP
+- **Certifications:** Data Cleaning in Python, SQL, Power BI, Tableau, Excel: Data analysis
+
+---
+
+
+## 📫 Let's Connect!
+
+- **Email:** ss18625@nyu.edu  
+- **LinkedIn:** [https://www.linkedin.com/in/srishtishetty01/](#)  
+- **GitHub:** [https://github.com/SrishtiShetty24](#)
+
+---
+
+**Fun Fact:** I’m a trained Bharatanatyam dancer and love to express my creativity through dance and Rangoli designs! 🎨💃
